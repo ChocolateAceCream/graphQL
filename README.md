@@ -1,24 +1,23 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# sample application for uitlizing graphql gem with rails
 
-Things you may want to cover:
+#Concept:
+send a single query to the GraphQL server that includes the concrete data requirements. The server then responds with a JSON object where these requirements are fulfilled.
 
-* Ruby version
+App will cover:
 
-* System dependencies
+* server setup
 
-* Configuration
+* query
 
-* Database creation
+* mutation
 
-* Database initialization
+* authentication/session
 
-* How to run the test suite
+* relations
 
-* Services (job queues, cache servers, search engines, etc.)
+* Error handling
 
-* Deployment instructions
+* Filtering
 
 * ...
