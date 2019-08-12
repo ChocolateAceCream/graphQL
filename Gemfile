@@ -12,6 +12,9 @@ gem 'sqlite3'
 
 gem 'graphql','1.8.13'
 
+gem 'search_object'
+gem 'search_object_graphql'
+
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
